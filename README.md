@@ -11,4 +11,4 @@ info@satoshiturk.com
 
 mysql_query@hotmail.com.tr
 
-https://satoshiturk.com
+https://satoshiturk.com 
